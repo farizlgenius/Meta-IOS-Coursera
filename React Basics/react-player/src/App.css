@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  flex-direction: column;
+}
+
+.audio-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.audio-wrapper button {
+  padding: 10px;
+  margin: 10px;
+}

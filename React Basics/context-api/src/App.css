@@ -1,0 +1,11 @@
+.root {
+  width: 100%;
+  height: 80vh;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
